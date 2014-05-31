@@ -25,7 +25,7 @@ var trainerCards = {
 	yourloss: 'sorryforyourloss',
 	sorryforyourloss: function (target,room, user) {
 		if (!this.canBroadcast()) return;
-		this.sendReplyBox('<center><img src="http://i.imgur.com/W0oMHIu.png"><br><font color="green"><blink>"There is an island where rivers run deep, where the sea sparkling in the sun earns it the name Jewel of the Antilles."</blink><br><font color="black">Artist, Mathematician');
+		this.sendReplyBox('<center><img src="http://i.imgur.com/W0oMHIu.png"><br><font color="green"><blink>That\'s classified information.</blink><br><font color="black">Artist, Mathematician, Stalker (on social media)');
 	},
 	cata:'catacomb',
 	comb:'catacomb',
